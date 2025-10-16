@@ -1,0 +1,19 @@
+{
+  "best_eval_ade": 0.4902280271053314,
+  "best_eval_fde": 1.163017511367798,
+  "best_epoch": 166,
+  "final_epoch": 200,
+  "final_ade": 0.5071050524711609,
+  "component_weight_mean": {
+    "compw_risk_min_dist": 0.3679186072321262,
+    "compw_risk_ttc": 0.19932682029388107,
+    "compw_risk_pet": 0.2842873987237674,
+    "compw_risk_overlap": 0.14846717375022522
+  },
+  "component_weight_std": {
+    "compw_risk_min_dist": 0.03429125985132485,
+    "compw_risk_ttc": 0.037135587491683254,
+    "compw_risk_pet": 0.009761675509578207,
+    "compw_risk_overlap": 0.023098310866382088
+  }
+}
